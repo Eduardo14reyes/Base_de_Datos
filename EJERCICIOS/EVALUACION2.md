@@ -60,3 +60,7 @@ Modelo entidad/relación
 
 
 Base de datos para MySQL
+
+LIGA DE LA BASE  CREAR 
+
+https://www.db-fiddle.com/f/x3nyzsY8XxJjRUxadJeM1i/38

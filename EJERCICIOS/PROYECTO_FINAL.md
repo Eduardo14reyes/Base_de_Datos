@@ -29,3 +29,6 @@ precio y categoría.
 un código de categoría único.
 
 ● Una pieza sólo puede pertenecer a una categoría.
+
+![MODELO ENTIDAD RELACIÓN](https://user-images.githubusercontent.com/113804583/229324298-627ecbb4-fd22-4ab1-a256-c3714c336d85.png)
+

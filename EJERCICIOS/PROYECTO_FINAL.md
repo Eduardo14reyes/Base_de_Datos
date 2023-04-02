@@ -32,3 +32,6 @@ un código de categoría único.
 
 ![MODELO ENTIDAD RELACIÓN](https://user-images.githubusercontent.com/113804583/229324298-627ecbb4-fd22-4ab1-a256-c3714c336d85.png)
 
+
+codigo https://www.db-fiddle.com/f/qrK2mxjMHcbxpWfPNJYVM1/1
+
